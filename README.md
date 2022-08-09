@@ -35,4 +35,13 @@ It has also following JSP Pages with a style.css file: <br>
 1. Login_info(User_name, Password)<br>
 2. Prdouct(Product_id,Product_name,Product_category,Product_price)<br>
 <br>
-
+<h3>Login Page</h3>
+<img src="login" width="500" height="300"> 
+<h3>Add Product Page</h3>
+<img src="addProd.png" width="500" height="300">
+<h3>View Product Page</h3>
+<img src="viewProd.png" width="500" height="300">
+<h3>Edit Product Page</h3>
+<img src="editProd.png" width="500" height="300">
+<h3>Search Product Page</h3>
+<img src="searchProd.png" width="500" height="300">
