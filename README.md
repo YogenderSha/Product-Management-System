@@ -37,6 +37,8 @@ It has also following JSP Pages with a style.css file: <br>
 <br>
 <h3>Login Page</h3>
 <img src="login" width="500" height="300"> 
+<h3>Login Fail Page</h3>
+<img src="login_failed.png" width="500" height="300"> 
 <h3>Add Product Page</h3>
 <img src="addProd.png" width="500" height="300">
 <h3>View Product Page</h3>
